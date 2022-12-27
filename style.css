@@ -110,6 +110,7 @@ nav {
   display: none;
 }
 
+
 /*MENU DESKTOP*/
 .desktop-menu {
   position: absolute;
@@ -314,6 +315,7 @@ nav {
 .product-detail-cart {
   width: 360px;
   padding-bottom: 24px;
+  background-color: var(--white);
   position: absolute;
   right: 0;
 }
